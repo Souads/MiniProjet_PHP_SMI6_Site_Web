@@ -44,9 +44,6 @@ CREATE TABLE `Clients` (
 
 INSERT INTO `Clients` (`id_client`, `nom`, `prenom`, `email`, `mod_pass`, `Adress`, `num_tele`) VALUES
 (58, 'njnjn', 'njj', 'souad74@gmail.com', 'souadSOUAD74?', 'lkl', 563897452),
-(59, 'saidi', 'souad', 'souad12saidi@gmail.com', 'Aze123/*', 'bom sucesso', 603775375),
-(60, 'Mhamed', 'El azzaoui', 'mhamedelazzaoui17@gmail.com', 'Az--ap2020', 'Tiznit bounamane', 697871469),
-(61, 'bnani', 'asma', 'mhamedelazzaoui17@gmail.com', 'GHµF%HD£H¨D0445349584a_ç-_(-', 'TIZNIT', 655555588),
 (62, 'hhhh', 'Souad', 'Souad56@gmail.com', 'Aze123/*1', 'Ait meloul', 603775375);
 
 -- --------------------------------------------------------

@@ -1,1 +1,1 @@
-# MiniProjet_SMI6_Site_Web
+# MiniProjet_PHP_SMI6_Site_Web
